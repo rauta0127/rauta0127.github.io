@@ -59,11 +59,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon.ico"
+    #favicon16x16: "<link / abs url>"
+    #favicon32x32: "<link / abs url>"
+    apple_touch_icon: "/apple-touch-icon.png"
+    #safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "rauta0127"
@@ -90,7 +90,7 @@ params:
     Title: "Hi there \U0001F44B"
     Content: >
       Welcome to my blog! 
-      I’m rauta0127. I’m a senior data scientist in the financial industry, working on data-driven products and ML/AI solutions. 
+      I’m rauta0127 @Tokyo, Japan. I’m a senior data scientist in the financial industry, working on data-driven products and ML/AI solutions. 
       This blog is where I share things I’m learning, experiments I’m running, and occasional notes on building practical machine learning systems—mostly with Python. 
       Note: These are just my personal thoughts, not official statements from any employer.
 
@@ -106,7 +106,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-RZ712EV9VH"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -139,6 +139,10 @@ menu:
       name: about
       url: /about/
       weight: 5
+    - identifier: resume
+      name: resume
+      url: /resume/
+      weight: 7
     - identifier: categories
       name: categories
       url: /categories/

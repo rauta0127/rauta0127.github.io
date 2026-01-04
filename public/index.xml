@@ -31,5 +31,27 @@
       <description>&lt;h2 id=&#34;rauta0127&#34;&gt;rauta0127&lt;/h2&gt;
 &lt;p&gt;I like DataScience and MachineLearning, Artifical Intelligence&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;rauta0127&#34;&gt;rauta0127&lt;/h2&gt;
+&lt;p&gt;Senior Data Scientist working in the financial industry, with a strong focus on machine learning, applied AI, and building practical data-driven systems.&lt;br&gt;
+I am particularly interested in translating complex real-world problems into reliable ML solutions, from modeling and evaluation to deployment and operations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Applied Machine Learning / AI&lt;/li&gt;
+&lt;li&gt;Data Science &amp;amp; Predictive Modeling&lt;/li&gt;
+&lt;li&gt;MLOps &amp;amp; Experimentation&lt;/li&gt;
+&lt;li&gt;Time Series &amp;amp; Demand Forecasting&lt;/li&gt;
+&lt;li&gt;Python-based ML Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-experience-summary&#34;&gt;Professional Experience (Summary)&lt;/h2&gt;
+&lt;h3 id=&#34;senior-data-scientist--project-leader--financial-industry&#34;&gt;Senior Data Scientist / Project Leader — Financial Industry&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Apr 2024 – Present | Tokyo (Hybrid)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
