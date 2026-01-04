@@ -5,4 +5,3 @@ build:
   list: never
   publishResources: false
 ---
-

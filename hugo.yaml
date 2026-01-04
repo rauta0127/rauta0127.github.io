@@ -1,5 +1,5 @@
 baseURL: "https://rauta0127.github.io/"
-title: ExampleSite
+title: rauta0127 Homepage
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -16,9 +16,11 @@ minify:
   minifyOutput: true
 
 params:
+  mainSections:
+    - posts
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: rauta0127 Homepage
+  description: "rauta0127 Homepage"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -26,7 +28,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
+  
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -53,15 +55,15 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "rauta0127"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: rauta0127 Homepage
+    subtitle: "Welcome to my blog"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -75,15 +77,22 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: "
+      Welcome to my blog! 
+      I’m rauta0127. I’m a senior data scientist in the financial industry, working on data-driven products and ML/AI solutions. 
+      This blog is where I share things I’m learning, experiments I’m running, and occasional notes on building practical machine learning systems—mostly with Python. 
+      Note: These are just my personal thoughts, not official statements from any employer.
+      "
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://x.com/rauta_t"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/rauta0127"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/takuma-urata-385a3aa8/"
+    - name: kofi
+      url: "https://ko-fi.com/rauta0127"
 
   analytics:
     google:
@@ -94,14 +103,14 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -116,6 +125,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
@@ -124,10 +137,6 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
