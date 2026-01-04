@@ -6,19 +6,22 @@
     <description>Recent content in Diary on rauta0127 Homepage</description>
     <image>
       <title>rauta0127 Homepage</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://rauta0127.github.io/og.png</url>
+      <link>https://rauta0127.github.io/og.png</link>
     </image>
     <generator>Hugo -- 0.154.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 2026 15:30:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 22:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happy New Year 2026</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Sun, 04 Jan 2026 15:30:03 +0900</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;h2 id=&#34;hi&#34;&gt;Hi&lt;/h2&gt;</description>
+      <link>http://localhost:1313/posts/20260104/</link>
+      <pubDate>Sun, 04 Jan 2026 22:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/20260104/</guid>
+      <description>&lt;p&gt;Hi, I’m rauta0127.&lt;/p&gt;
+&lt;p&gt;Welcome to 2026! Since it’s a fresh start, I decided to finally begin a personal blog this year.&lt;/p&gt;
+&lt;p&gt;I’ve been working in Japan’s data science / machine learning space for a while, and these days I’m in the finance world—mostly involved in ML projects related to credit risk and loan screening.&lt;/p&gt;
+&lt;p&gt;I’m genuinely into ML/AI, so I’d like to share what I’m learning, things I’m building, and whatever insights I pick up along the way. I also want to try more personal projects this year—small experiments, tools, or anything that sounds fun and useful.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

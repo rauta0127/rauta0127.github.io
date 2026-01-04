@@ -20,11 +20,22 @@ params:
     - posts
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: rauta0127 Homepage
-  description: "rauta0127 Homepage"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "A personal blog by rauta0127 — ML/AI notes, experiments, and practical machine learning systems in finance."
+  keywords:
+    - rauta0127
+    - data science
+    - machine learning
+    - AI
+    - MLOps
+    - Python
+    - finance
+    - credit risk
+    - forecasting
+    - Kaggle
+  images:
+    - "https://rauta0127.github.io/og.png"
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -77,12 +88,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "
+    Content: >
       Welcome to my blog! 
       I’m rauta0127. I’m a senior data scientist in the financial industry, working on data-driven products and ML/AI solutions. 
       This blog is where I share things I’m learning, experiments I’m running, and occasional notes on building practical machine learning systems—mostly with Python. 
       Note: These are just my personal thoughts, not official statements from any employer.
-      "
 
   socialIcons:
     - name: x
@@ -104,7 +114,7 @@ params:
 
   cover:
     hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
+    hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
   # editPost:
