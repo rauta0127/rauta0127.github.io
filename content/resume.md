@@ -15,6 +15,7 @@ I am particularly interested in translating complex real-world problems into rel
 ---
 
 ## Areas of Expertise
+
 - Applied Machine Learning / AI
 - Data Science & Predictive Modeling
 - MLOps & Experimentation
@@ -26,7 +27,9 @@ I am particularly interested in translating complex real-world problems into rel
 ## Professional Experience (Summary)
 
 ### Senior Data Scientist / Project Leader — Financial Industry  
+
 *Apr 2024 – Present | Tokyo (Hybrid)*  
+
 - Working primarily on data science and machine learning challenges in **banking and financial services**  
 - Developing ML-driven solutions for risk assessment, decision-making, and operational optimization  
 - Involved in technical leadership, project planning, and collaboration with business stakeholders  
@@ -34,7 +37,9 @@ I am particularly interested in translating complex real-world problems into rel
 ---
 
 ### Freelance Data Scientist / ML Engineer — Retail Domain  
+
 *Dec 2022 – Present | Remote*  
+
 - Supporting demand forecasting and predictive modeling for a **large-scale retail business**  
 - Designing and evaluating time-series and tabular ML models for real-world commercial use cases  
 - Contributing to experimentation, feature engineering, and model validation  
@@ -42,7 +47,9 @@ I am particularly interested in translating complex real-world problems into rel
 ---
 
 ### Freelance Data Scientist / ML Engineer — Real Estate Domain  
+
 *Nov 2022 – Present | Remote*  
+
 - Engaged as a freelance ML engineer for a **real estate technology company**  
 - Supporting development of data-driven products using machine learning and MLOps practices  
 - Working across model development, pipeline automation, and analytics  
@@ -50,7 +57,9 @@ I am particularly interested in translating complex real-world problems into rel
 ---
 
 ### Data Scientist / ML Engineer — Data-Driven Product Company (Pet Tech Startup)  
+
 *Feb 2022 – Mar 2024 | Tokyo*  
+
 - Worked at a **pet tech startup**, applying data science and machine learning to domain-specific products  
 - Developed ML models and analytical systems related to animal behavior and signal processing  
 - Contributed to backend integration and end-to-end ML pipelines  
@@ -58,7 +67,9 @@ I am particularly interested in translating complex real-world problems into rel
 ---
 
 ### Data Scientist / ML Engineer  — Consumer & Retail Industry  
+
 *Aug 2018 – Jan 2022 | Tokyo*  
+
 - Data scientist at **one of Japan’s leading large-scale apparel companies**  
 - Worked on demand forecasting, trend analysis, and image recognition tasks  
 - Applied machine learning techniques to large, complex consumer and retail datasets  
@@ -66,7 +77,9 @@ I am particularly interested in translating complex real-world problems into rel
 ---
 
 ### Engineer — Manufacturing & Applied Research  
+
 *Apr 2013 – Apr 2018 | Japan*  
+
 - Engineer at **a major Japanese automotive manufacturer**  
 - Focused on applied research in materials science and fuel cell–related technologies  
 - Built a strong foundation in industrial R&D, experimentation, and engineering problem-solving  
@@ -76,6 +89,7 @@ I am particularly interested in translating complex real-world problems into rel
 ## Competitive Data Science & ML Achievements
 
 ### Kaggle
+
 - **[Cassava Leaf Disease Classification](https://www.kaggle.com/competitions/cassava-leaf-disease-classification)**  
   - Silver Medal — 126 / 3,900 teams
 - **[M5 Forecasting – Accuracy](https://www.kaggle.com/competitions/m5-forecasting-accuracy)**  
@@ -86,6 +100,7 @@ I am particularly interested in translating complex real-world problems into rel
   - Bronze Medal — 339 / 4,110 teams
 
 ### atmaCup
+
 - **[#21 atmaCup in collaboration with Elith](https://www.guruguru.science/competitions/28/)**
   - **2nd**🥈 / 386 teams
 - **[#7 CA x atmaCup 2nd](https://www.guruguru.science/competitions/12/)**
@@ -94,12 +109,14 @@ I am particularly interested in translating complex real-world problems into rel
   - 15th / 614 teams
 
 ### Nishika
+
 - **[Used Condominium Price Prediction (Spring 2024)](https://competition.nishika.com/competitions/mansion_2024spring/summary)**  
   - **1st**🥇 / 342 teams
 
 ---
 
 ## Technical Skills
+
 - **Programming**: Python  
 - **Machine Learning**: Supervised learning, deep learning, evaluation design  
 - **Data**: Feature engineering, time series, tabular data  
@@ -108,12 +125,14 @@ I am particularly interested in translating complex real-world problems into rel
 ---
 
 ## Education
+
 **M.S. in Materials Engineering**  
 Major research areas included catalysis, photocatalysis, and applied chemical processes.
 
 ---
 
 ## Interests
+
 - Practical machine learning systems
 - Model evaluation, monitoring, and robustness
 - Experiment design and reproducibility

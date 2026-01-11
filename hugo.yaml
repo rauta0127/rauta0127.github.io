@@ -143,10 +143,6 @@ menu:
       name: resume
       url: /resume/
       weight: 7
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
