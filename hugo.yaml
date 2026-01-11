@@ -15,6 +15,22 @@ minify:
   disableXML: true
   minifyOutput: true
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+languages:
+  en:
+      languageName: "English"
+      weight: 1
+      params:
+        languageAltTitle: "English"
+  ja:
+    languageName: "Japanese"
+    weight: 2
+    params:
+      languageAltTitle: "Japanese"
+  
+
+
 taxonomies:
   tag: tags
 
@@ -42,6 +58,9 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+
+  displayFullLangName: true
+  ShowLanguageSwitcher: true
   
   ShowReadingTime: true
   ShowShareButtons: true

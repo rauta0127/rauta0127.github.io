@@ -82,6 +82,7 @@ I am particularly interested in translating complex real-world problems into rel
 
 - Engineer at **a major Japanese automotive manufacturer**  
 - Focused on applied research in materials science and fuel cell–related technologies  
+- Also contributed to building data-driven environments to promote manufacturing analytics and process improvement in production engineering  
 - Built a strong foundation in industrial R&D, experimentation, and engineering problem-solving  
 
 ---
