@@ -39,21 +39,22 @@ jobs:
           mkdir -p "${HOME}/.local/hugo"
           tar -C "${HOME}/.local/hugo" -xf hugo.tar.gz
           chmod +x "${HOME}/.local/hugo/hugo"
+          "${HOME}/.local/hugo/hugo" version
           echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
-          hugo version
 
       - name: Build
         shell: bash
         run: |
           set -euo pipefail
-          # Clean build outputs explicitly (extra safety)
           rm -rf public resources
 
-          # Normalize baseURL to avoid accidental double slashes
           base_url="${{ steps.pages.outputs.base_url }}"
           base_url="${base_url%/}/"
 
           hugo --gc --minify --baseURL "$base_url"
+
+          # Prevent GitHub Pages/Jekyll from processing the output (extra safety)
+          touch public/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
