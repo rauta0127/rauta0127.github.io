@@ -15,6 +15,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
+taxonomies:
+  tag: tags
+
 params:
   mainSections:
     - posts

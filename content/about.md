@@ -18,6 +18,7 @@ I try to keep things simple, reproducible, and useful.
 ---
 
 ## What you’ll find here
+
 - **ML / AI notes**: things I learned from real-world problems and side experiments  
 - **Evaluation & experimentation**: metrics, validation design, failure cases, lessons learned  
 - **MLOps & systems**: pipelines, monitoring, reproducibility, tooling  
@@ -27,7 +28,9 @@ I try to keep things simple, reproducible, and useful.
 ---
 
 ## Why I write
+
 I believe writing is one of the best ways to:
+
 - think clearly,
 - build things better,
 - and share knowledge with the community.
@@ -37,6 +40,7 @@ This site also serves as a lightweight portfolio of my work and interests.
 ---
 
 ## Links
+
 - GitHub: https://github.com/rauta0127  
 - X: https://x.com/rauta_t  
 - LinkedIn: https://www.linkedin.com/in/takuma-urata-385a3aa8/  
